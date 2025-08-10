@@ -1,6 +1,9 @@
 streamlit
 xgboost
-scikit-learn
 pandas
 numpy
-sentence-transformers
+scikit-learn
+sentence-transformers==2.2.2
+transformers==4.28.1
+torch==2.0.1
+
